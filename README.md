@@ -12,18 +12,14 @@
   </p>
 </div>
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api?username=osamaelfeky307&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_title=true" alt="GitHub Stats" />
+<br/>
+
+<a href="https://skillicons.dev">
+  <img align="right" width="190" src="https://skillicons.dev/icons?i=python,ts,nextjs,react,tailwind,flutter,postgres,supabase,sqlite,docker,git,linux&perline=4" alt="Tech Stack" />
+</a>
 
 - 🚀 **Software Engineer & Medical Informatics Specialist** based in Egypt
 - 💻 Building **Next.js web platforms**, **Python workflow automation** & **AI tools**
 - 🥇 **1st Place** — Benha Univ. AI Innovations Marathon (*AI Brain Stroke Detection*)
 - 🏆 **4th Place Nationwide** — IEEE Egypt Paper Contest (*ML for Early ASD Detection*)
 - 🌐 **Former IEEEXtreme Egypt Section Lead** (*125+ teams across 80+ universities*)
-
-<br/>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,tailwind,flutter,postgres,supabase,sqlite,docker,git,linux&perline=12" height="36" alt="Tech Stack" />
-  </a>
-</div>
